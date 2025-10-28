@@ -4,7 +4,7 @@ An AI-Based Mood, Reward, and Habit Reinforcement System
 
 📘 Overview
 
-Mind Sync is an AI-powered wellness platform that integrates emotional intelligence and gamified habit tracking. It helps users enhance mindfulness, productivity, and wellbeing through mood analysis, activity-based rewards, and visual progress tracking.
+Well being hub is an AI-powered wellness platform that integrates emotional intelligence and gamified habit tracking. It helps users enhance mindfulness, productivity, and wellbeing through mood analysis, activity-based rewards, and visual progress tracking.
 
 🚀 Features
 
