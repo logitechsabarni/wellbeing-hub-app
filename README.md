@@ -70,3 +70,9 @@ Supriti Chhatait
 
 Srijita De
 Guide: Prof. Kamalika Bhowal
+
+
+
+The vs code link is:- https://vscode-68070751-04e1-4dd5-85cd-2fcfbfa4544e.preview.emergentagent.com/
+
+The app link is:- https://wellness-rewards.preview.emergentagent.com/dashboard
